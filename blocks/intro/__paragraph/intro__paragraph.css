@@ -1,0 +1,6 @@
+.intro__paragraph {
+  font-family: Inter;
+  color: var(--main-white);
+  font-size: 16px;
+  line-height: 163%;
+}

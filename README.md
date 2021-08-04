@@ -1,20 +1,24 @@
-# Project 3: From Portland to Portland
+# Web Project 3 - From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+### About
+ this is the third project in the practicum course for front-end dev which focuses on Gird display and Adaptive designs.
 
-**Intro**
+### New undertakings
+ This is the first time we will practice in applying a few new stuff we've learned in the course , here's a list of them:
+1. Grid and various grid transformations.
+2. Media queries - Media queries for scalable and adaptive design.
+3. Figma - a software for designing and outlining websites.
+4. Github - Learned additional Github functionalities.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
 
-**Figma**
+#### References
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1) - This is what the project was based on.
+* [Link to the project's github repository.](https://github.com/AVilentchuk/web_project_3) :grinning:
+* Additional materials used: [css-tricks](https://css-tricks.com/guides/), [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) ,[Traversy Media](https://www.youtube.com/user/TechGuyWeb), [Yandex Practicum 100 course materials](https://practicum.yandex.com/) and more.
+* Tools used : [tinypng](https://tinypng.com/) , Windows PowerToys, Figma ,VS Code, Firefox & Chrome browsers.
 
-**Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+###Contact
+Alex Vilentchuk -  avilentchuk@gmail.com
 
-Good luck and have fun!

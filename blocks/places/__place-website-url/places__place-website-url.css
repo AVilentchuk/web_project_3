@@ -1,0 +1,7 @@
+.places__place-website-url {
+  font-size: 18px;
+  line-height: 22px;
+  color: var(--main-white);
+  font-family: Inter;
+  text-decoration: underline;
+}
