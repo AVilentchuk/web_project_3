@@ -1,10 +1,10 @@
 .intro__subtitle {
-  font-family: Inter;
+  margin:0;
   color: var(--main-white);
   font-size: 24px;
   line-height: 34px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .intro__subtitle {
     line-height: 30px;
   }

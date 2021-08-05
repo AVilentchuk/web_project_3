@@ -15,7 +15,6 @@
 
 * [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1) - This is what the project was based on.
 * [Link to the project's github repository.](https://github.com/AVilentchuk/web_project_3) :grinning:
-*  [Link to the project's gitpages.](https://avilentchuk.github.io/web_project_3/)  :roll_eyes:
 * Additional materials used: [css-tricks](https://css-tricks.com/guides/), [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) ,[Traversy Media](https://www.youtube.com/user/TechGuyWeb), [Yandex Practicum 100 course materials](https://practicum.yandex.com/) and more.
 * Tools used : [tinypng](https://tinypng.com/) , Windows PowerToys, Figma ,VS Code, Firefox & Chrome browsers.
 

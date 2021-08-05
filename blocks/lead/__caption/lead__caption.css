@@ -7,3 +7,14 @@
   color: var(--main-white);
   object-position: top left;
 }
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin: 8px auto 0 24px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .lead__caption {
+    margin: 8px auto 0 16px;
+  }
+}

@@ -1,11 +1,11 @@
 .footer__copyrights {
   margin: 0 0 24px;
   color: var(--main-white);
-  font-family: Inter;
+  font-family: 'Inter','Arial', 'Helvetica', 'sans-serif';
   font-size: 14px;
   line-height: 16px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__copyrights {
     line-height: 14px;
   }

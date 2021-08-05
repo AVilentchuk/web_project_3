@@ -1,23 +1,18 @@
 .lead {
+  font-family: 'Inter','Arial', 'Helvetica', 'sans-serif';
   margin: 58px auto 0;
-  width: 76.875%;
+  width: 984px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .lead {
-  margin: 50px auto 0;
-    width: 90.625%;
+    margin: 50px auto 0;
+    width: 928px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .lead {
     width: 100%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead {
-    width:100%;
   }
 }
