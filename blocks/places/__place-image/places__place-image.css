@@ -3,21 +3,26 @@
   width: 460px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .places__place-image {
     width: 440px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .places__place-image {
     width: 340px;
   }
 }
 
-@media screen and (max-width: 768px) {
- .places__place-image {
-   margin:auto;
+@media screen and (max-width: 767px) {
+  .places__place-image {
+    margin: auto;
     width: 320px;
+  }
+}
+@media screen and (max-width: 319px) {
+  .places__place-image {
+    width: 100%;
   }
 }
